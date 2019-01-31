@@ -1,2 +1,7 @@
+# Ethereum (Crypto Blockchain) Contract / Transaction Scripts 
 
-test repo
+_Ponzi & pyramid schemes, lotteries, gambling casinos and more_
+
+
+
+
