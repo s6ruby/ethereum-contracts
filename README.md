@@ -20,6 +20,7 @@ _Ponzi & pyramid schemes, lotteries, gambling casinos and more_
 
 _Satoshi (Roll) Dice, Roulette, and more_
 
-- [**Dice2Win.sol**](Dice2Win.sol)
+- [**Dice2Win.sol**](Dice2Win.sol) - [(Source)](https://github.com/dice2-win/contracts), [(Live)](https://etherscan.io/address/0xD1CEeeeee83F8bCF3BEDad437202b6154E9F5405#code)
+- [**FckDice.sol**](FckDice.sol) - [(Source)](https://github.com/FCKOfficial/FCK-contracts)
 
 
