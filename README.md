@@ -29,3 +29,7 @@ _Satoshi (Roll) Dice, Roulette, and more_
 - [**FckDice.sol**](FckDice.sol) - [(Source)](https://github.com/FCKOfficial/FCK-contracts)
 
 
+## Collectibles
+
+- [**GodsUnchained.sol**](GodsUnchained.sol) - [(Live)](https://etherscan.io/address/0x6EbeAf8e8E946F0716E6533A6f2cefc83f60e8Ab#code)
+
