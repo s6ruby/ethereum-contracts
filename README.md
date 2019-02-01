@@ -3,6 +3,11 @@
 _Ponzi & pyramid schemes, lotteries, gambling casinos and more_
 
 
+**BEWARE: Gambling is fun and addictive. Winning and losing. Up and down.
+Treat crypto "games" as entertainment like casino gambling, sports betting or poker cards playing.
+Do NOT "invest" trying to get-rich-quick
+or raise the stakes trying to win back what you have lost, and so on.**
+
 
 ## Ponzi & Pyramid Schemes
 
