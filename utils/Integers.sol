@@ -1,3 +1,6 @@
+///////////////////////////////////
+// see https://github.com/willitscale/solidity-util
+
 pragma solidity ^0.4.0;
 
 /**
